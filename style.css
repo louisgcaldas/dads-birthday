@@ -1,8 +1,0 @@
-body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #fffc05;
-    color: blue;
-    display: grid;
-    place-items: center; /* Combines vertical and horizontal centering */
-    height: 200px;
-}
